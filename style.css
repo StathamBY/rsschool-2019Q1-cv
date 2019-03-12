@@ -1,0 +1,17 @@
+body {
+    background-color: azure;
+    margin-left:auto;
+    margin-right:auto;
+    width: 1024px;
+    
+}
+h1 {
+    font-size: 22pt;
+}
+img {
+    width: 300px;
+    
+}
+h2 {
+    font-size: 12pt;
+}
